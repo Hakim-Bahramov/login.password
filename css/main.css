@@ -1,0 +1,23 @@
+.inp-1 {
+	outline: none;
+	border-bottom: 2px solid gray;
+}
+.inp-1:hover {
+	border-color: black;
+}
+.inp-1:focus {
+	border-color: black;
+}
+
+.inp-2 {
+	outline: none;
+}
+.input-group {
+	border-bottom: 2px solid gray;
+}
+.input-group:hover {
+	border-color: black;
+}
+.input-group:focus-within {
+	border-color: black;
+}
